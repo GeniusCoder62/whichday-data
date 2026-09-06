@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "cooperms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://cooperms.fcps.edu/sites/default/files/media/inline-files/Cooper%20Bell%20Schedule%202026-2027.pdf",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ODD": {
+      "title": "Odd Day",
+      "note": "Lunch wave varies by grade.",
+      "periods": [
+        {
+          "id": "odd-block-1",
+          "name": "Block 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "odd-block-3",
+          "name": "Block 3",
+          "startTime": "9:00 AM",
+          "endTime": "10:26 AM",
+          "note": null
+        },
+        {
+          "id": "odd-block-5",
+          "name": "Block 5",
+          "startTime": "10:30 AM",
+          "endTime": "12:45 PM",
+          "note": null
+        },
+        {
+          "id": "odd-block-7",
+          "name": "Block 7",
+          "startTime": "12:49 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "EVEN": {
+      "title": "Even Day",
+      "note": "Lunch wave varies by grade.",
+      "periods": [
+        {
+          "id": "even-block-2",
+          "name": "Block 2",
+          "startTime": "7:30 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "even-block-4",
+          "name": "Block 4",
+          "startTime": "9:00 AM",
+          "endTime": "10:26 AM",
+          "note": null
+        },
+        {
+          "id": "even-block-6",
+          "name": "Block 6",
+          "startTime": "10:30 AM",
+          "endTime": "12:45 PM",
+          "note": null
+        },
+        {
+          "id": "even-block-8",
+          "name": "Block 8",
+          "startTime": "12:49 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

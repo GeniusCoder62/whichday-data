@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "fairfaxhs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://fairfaxhs.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-1st-period",
+          "name": "1st Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:41 AM",
+          "note": null
+        },
+        {
+          "id": "blue-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:47 AM",
+          "endTime": "11:15 AM",
+          "note": null
+        },
+        {
+          "id": "blue-5th-period",
+          "name": "5th Period",
+          "startTime": "11:21 AM",
+          "endTime": "1:21 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-7th-period",
+          "name": "7th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "GRAY": {
+      "title": "Gray Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "gray-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:41 AM",
+          "note": null
+        },
+        {
+          "id": "gray-4th-period-lion-time",
+          "name": "4th Period / Lion Time",
+          "startTime": "9:47 AM",
+          "endTime": "11:15 AM",
+          "note": "Includes Lion Time"
+        },
+        {
+          "id": "gray-6th-period",
+          "name": "6th Period",
+          "startTime": "11:21 AM",
+          "endTime": "1:21 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "gray-8th-period",
+          "name": "8th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

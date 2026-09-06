@@ -1,0 +1,1188 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-06T12:54:07+00:00",
+  "districts": [
+    {
+      "id": "fcps",
+      "name": "Fairfax County Public Schools",
+      "state": "VA",
+      "schools": [
+        {
+          "id": "rcms",
+          "name": "Carson Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://carsonms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "A",
+              "displayName": "A Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "B",
+              "displayName": "B Day",
+              "colorHex": "#FF6E00"
+            }
+          ],
+          "calendarPath": "schools/fcps/rcms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "cooperms",
+          "name": "Cooper Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://cooperms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ODD",
+              "displayName": "Odd Day",
+              "colorHex": "#7A3E9D"
+            },
+            {
+              "id": "EVEN",
+              "displayName": "Even Day",
+              "colorHex": "#008C95"
+            }
+          ],
+          "calendarPath": "schools/fcps/cooperms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "franklinms",
+          "name": "Franklin Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://franklinms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GRAY",
+              "displayName": "Gray Day",
+              "colorHex": "#73777F"
+            }
+          ],
+          "calendarPath": "schools/fcps/franklinms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "frostms",
+          "name": "Frost Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://frostms.fcps.edu/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GRAY",
+              "displayName": "Gray Day",
+              "colorHex": "#73777F"
+            }
+          ],
+          "calendarPath": "schools/fcps/frostms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "glasgowms",
+          "name": "Glasgow Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://glasgowms.fcps.edu/about/bell-schedules",
+          "rotationLabels": [
+            {
+              "id": "ODD",
+              "displayName": "Odd Day",
+              "colorHex": "#7A3E9D"
+            },
+            {
+              "id": "EVEN",
+              "displayName": "Even Day",
+              "colorHex": "#008C95"
+            }
+          ],
+          "calendarPath": "schools/fcps/glasgowms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "herndonms",
+          "name": "Herndon Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://herndonms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ANCHOR",
+              "displayName": "Anchor Day",
+              "colorHex": "#5B6CFF"
+            },
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLACK",
+              "displayName": "Black Day",
+              "colorHex": "#30343B"
+            }
+          ],
+          "calendarPath": "schools/fcps/herndonms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "holmesms",
+          "name": "Holmes Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://holmesms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "WHITE",
+              "displayName": "White Day",
+              "colorHex": "#8A8F98"
+            }
+          ],
+          "calendarPath": "schools/fcps/holmesms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "hughesms",
+          "name": "Hughes Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://hughesms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GREY",
+              "displayName": "Gray Day",
+              "colorHex": "#73777F"
+            }
+          ],
+          "calendarPath": "schools/fcps/hughesms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "irvingms",
+          "name": "Irving Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://irvingms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "WHITE",
+              "displayName": "White Day",
+              "colorHex": "#8A8F98"
+            }
+          ],
+          "calendarPath": "schools/fcps/irvingms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "jacksonms",
+          "name": "Jackson Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://jacksonms.fcps.edu/sites/default/files/media/inline/standard-school-year-calendar_26-27_0.jpg",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLACK",
+              "displayName": "Black Day",
+              "colorHex": "#2B2B2B"
+            }
+          ],
+          "calendarPath": "schools/fcps/jacksonms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "johnsonms",
+          "name": "Katherine Johnson Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://johnsonms.fcps.edu/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ODD",
+              "displayName": "Odd Day",
+              "colorHex": "#7A3E9D"
+            },
+            {
+              "id": "EVEN",
+              "displayName": "Even Day",
+              "colorHex": "#008C95"
+            }
+          ],
+          "calendarPath": "schools/fcps/johnsonms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "keyms",
+          "name": "Key Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://keyms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/keyms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "kilmerms",
+          "name": "Kilmer Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://kilmerms.fcps.edu/sites/default/files/media/inline-files/Kilmer%20Calendar%2026-27.pdf",
+          "rotationLabels": [
+            {
+              "id": "ANCHOR",
+              "displayName": "Anchor Day",
+              "colorHex": "#5B6CFF"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GREEN",
+              "displayName": "Green Day",
+              "colorHex": "#2E8B57"
+            }
+          ],
+          "calendarPath": "schools/fcps/kilmerms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "libertyms",
+          "name": "Liberty Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://libertyms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/libertyms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "longfellowms",
+          "name": "Longfellow Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://longfellowms.fcps.edu/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "SILVER",
+              "displayName": "Silver Day",
+              "colorHex": "#9CA3AF"
+            },
+            {
+              "id": "ANCHOR",
+              "displayName": "Anchor Day",
+              "colorHex": "#5B6CFF"
+            }
+          ],
+          "calendarPath": "schools/fcps/longfellowms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "poems",
+          "name": "Poe Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://poems.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLACK",
+              "displayName": "Black Day",
+              "colorHex": "#30343B"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/poems/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "rockyrunms",
+          "name": "Rocky Run Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://rockyrunms.fcps.edu/about/bell-schedules",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/rockyrunms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "sandburgms",
+          "name": "Sandburg Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://sandburgms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "WHITE",
+              "displayName": "White Day",
+              "colorHex": "#8A8F98"
+            }
+          ],
+          "calendarPath": "schools/fcps/sandburgms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "southcountyms",
+          "name": "South County Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://southcountyms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GREEN",
+              "displayName": "Green Day",
+              "colorHex": "#2E8B57"
+            }
+          ],
+          "calendarPath": "schools/fcps/southcountyms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "stonems",
+          "name": "Stone Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://stonems.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ODD",
+              "displayName": "Odd Day",
+              "colorHex": "#7A3E9D"
+            },
+            {
+              "id": "EVEN",
+              "displayName": "Even Day",
+              "colorHex": "#008C95"
+            }
+          ],
+          "calendarPath": "schools/fcps/stonems/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "thoreaums",
+          "name": "Thoreau Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://thoreaums.fcps.edu/about/blue-gold-day-calendar",
+          "rotationLabels": [
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/thoreaums/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "twainms",
+          "name": "Twain Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://twainms.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ANCHOR",
+              "displayName": "Anchor Day",
+              "colorHex": "#5B6CFF"
+            },
+            {
+              "id": "ODD",
+              "displayName": "Odd Day",
+              "colorHex": "#7A3E9D"
+            },
+            {
+              "id": "EVEN",
+              "displayName": "Even Day",
+              "colorHex": "#008C95"
+            }
+          ],
+          "calendarPath": "schools/fcps/twainms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "whitmanms",
+          "name": "Whitman Middle School",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://whitmanms.fcps.edu/sites/default/files/media/inline-files/Accessible%202026-2027%20Maroon_Silver%20Calendar.pdf",
+          "rotationLabels": [
+            {
+              "id": "MAROON",
+              "displayName": "Maroon Day",
+              "colorHex": "#8B1E3F"
+            },
+            {
+              "id": "SILVER",
+              "displayName": "Silver Day",
+              "colorHex": "#9CA3AF"
+            }
+          ],
+          "calendarPath": "schools/fcps/whitmanms/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "annandalehs",
+          "name": "Annandale High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://annandalehs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "WHITE",
+              "displayName": "White Day",
+              "colorHex": "#8A8F98"
+            }
+          ],
+          "calendarPath": "schools/fcps/annandalehs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "centrevillehs",
+          "name": "Centreville High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://centrevillehs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "WHITE",
+              "displayName": "White Day",
+              "colorHex": "#8A8F98"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/centrevillehs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "chantillyhs",
+          "name": "Chantilly High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://chantillyhs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "A",
+              "displayName": "A Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "B",
+              "displayName": "B Day",
+              "colorHex": "#FF6E00"
+            }
+          ],
+          "calendarPath": "schools/fcps/chantillyhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "edisonhs",
+          "name": "Edison High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://edisonhs.fcps.edu/sites/default/files/media/inline-files/edison-high-school-2026-2027-red-blue-accessible-calendar.pdf",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/edisonhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "fairfaxhs",
+          "name": "Fairfax High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://fairfaxhs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GRAY",
+              "displayName": "Gray Day",
+              "colorHex": "#73777F"
+            }
+          ],
+          "calendarPath": "schools/fcps/fairfaxhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "fallschurchhs",
+          "name": "Falls Church High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://fallschurchhs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "GREEN",
+              "displayName": "Green Day",
+              "colorHex": "#2E8B57"
+            },
+            {
+              "id": "WHITE",
+              "displayName": "White Day",
+              "colorHex": "#8A8F98"
+            }
+          ],
+          "calendarPath": "schools/fcps/fallschurchhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "herndonhs",
+          "name": "Herndon High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://herndonhs.fcps.edu/sites/default/files/media/inline-files/herndon-high-school-accessible-26-27-red-black-calendar.pdf",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLACK",
+              "displayName": "Black Day",
+              "colorHex": "#30343B"
+            }
+          ],
+          "calendarPath": "schools/fcps/herndonhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "justicehs",
+          "name": "Justice High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://justicehs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/justicehs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "langleyhs",
+          "name": "Langley High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://langleyhs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "GREEN",
+              "displayName": "Green Day",
+              "colorHex": "#2E8B57"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/langleyhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "lewishs",
+          "name": "Lewis High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://lewishs.fcps.edu/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/lewishs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "madisonhs",
+          "name": "Madison High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://madisonhs.fcps.edu/sites/default/files/media/inline-files/Madison%202627.pdf",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLACK",
+              "displayName": "Black Day",
+              "colorHex": "#30343B"
+            }
+          ],
+          "calendarPath": "schools/fcps/madisonhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "marshallhs",
+          "name": "Marshall High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://marshallhs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/marshallhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "mcleanhs",
+          "name": "McLean High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://mcleanhs.fcps.edu/sites/default/files/media/inline-files/Web%20Accessible%2026-27%20Red_Silver%20Calendar%20%282%29.pdf",
+          "rotationLabels": [
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            },
+            {
+              "id": "SILVER",
+              "displayName": "Silver Day",
+              "colorHex": "#9CA3AF"
+            }
+          ],
+          "calendarPath": "schools/fcps/mcleanhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "mountvernonhs",
+          "name": "Mount Vernon High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://mountvernonhs.fcps.edu/sites/default/files/media/inline-files/MVHS%202627%20Calendar_InDesign_Temp.pdf",
+          "rotationLabels": [
+            {
+              "id": "ODD",
+              "displayName": "Odd Day",
+              "colorHex": "#7A3E9D"
+            },
+            {
+              "id": "EVEN",
+              "displayName": "Even Day",
+              "colorHex": "#008C95"
+            }
+          ],
+          "calendarPath": "schools/fcps/mountvernonhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "oaktonhs",
+          "name": "Oakton High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://oaktonhs.fcps.edu/bell-schedules",
+          "rotationLabels": [
+            {
+              "id": "BURGUNDY",
+              "displayName": "Burgundy Day",
+              "colorHex": "#8B1E3F"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/oaktonhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "skyviewhs",
+          "name": "Skyview High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://skyviewhs.fcps.edu/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "A",
+              "displayName": "A Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "B",
+              "displayName": "B Day",
+              "colorHex": "#FF6E00"
+            }
+          ],
+          "calendarPath": "schools/fcps/skyviewhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "southcountyhs",
+          "name": "South County High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://southcountyhs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "GREEN",
+              "displayName": "Green Day",
+              "colorHex": "#2E8B57"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/southcountyhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "southlakeshs",
+          "name": "South Lakes High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://southlakeshs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GREEN",
+              "displayName": "Green Day",
+              "colorHex": "#2E8B57"
+            }
+          ],
+          "calendarPath": "schools/fcps/southlakeshs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "tjhsst",
+          "name": "Thomas Jefferson High School for Science and Technology",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://tjhsst.fcps.edu/2026-27-anchor-blue-and-red-day-schedules",
+          "rotationLabels": [
+            {
+              "id": "ANCHOR",
+              "displayName": "Anchor Day",
+              "colorHex": "#5B6CFF"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "RED",
+              "displayName": "Red Day",
+              "colorHex": "#D42A2A"
+            }
+          ],
+          "calendarPath": "schools/fcps/tjhsst/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "westpotomachs",
+          "name": "West Potomac High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://westpotomachs.fcps.edu/sites/default/files/media/inline-files/West%20Potomac%20High%20School%202026-2027%20Silver_Blue%20Calendar.docx.pdf",
+          "rotationLabels": [
+            {
+              "id": "SILVER",
+              "displayName": "Silver Day",
+              "colorHex": "#9CA3AF"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/westpotomachs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "westspringfieldhs",
+          "name": "West Springfield High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://westspringfieldhs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ORANGE",
+              "displayName": "Orange Day",
+              "colorHex": "#F97316"
+            },
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            }
+          ],
+          "calendarPath": "schools/fcps/westspringfieldhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "westfieldhs",
+          "name": "Westfield High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://westfieldhs.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "A",
+              "displayName": "A Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "B",
+              "displayName": "B Day",
+              "colorHex": "#FF6E00"
+            }
+          ],
+          "calendarPath": "schools/fcps/westfieldhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "woodsonhs",
+          "name": "Woodson High School",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://woodsonhs.fcps.edu/about-us/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ODD",
+              "displayName": "Odd Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "EVEN",
+              "displayName": "Even Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/woodsonhs/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "hayfieldss-high",
+          "name": "Hayfield Secondary School (High)",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://hayfieldss.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ORANGE",
+              "displayName": "Orange Day",
+              "colorHex": "#F97316"
+            },
+            {
+              "id": "WHITE",
+              "displayName": "White Day",
+              "colorHex": "#8A8F98"
+            }
+          ],
+          "calendarPath": "schools/fcps/hayfieldss-high/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "hayfieldss-middle",
+          "name": "Hayfield Secondary School (Middle)",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://hayfieldss.fcps.edu/about/bell-schedule",
+          "rotationLabels": [
+            {
+              "id": "ORANGE",
+              "displayName": "Orange Day",
+              "colorHex": "#F97316"
+            },
+            {
+              "id": "WHITE",
+              "displayName": "White Day",
+              "colorHex": "#8A8F98"
+            }
+          ],
+          "calendarPath": "schools/fcps/hayfieldss-middle/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "lakebraddockss-high",
+          "name": "Lake Braddock Secondary School (High)",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://lakebraddockss.fcps.edu/sites/default/files/media/inline-files/Purple_Gold%20Calendar%20Student%2026-27.docx.pdf",
+          "rotationLabels": [
+            {
+              "id": "PURPLE",
+              "displayName": "Purple Day",
+              "colorHex": "#7A3E9D"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/lakebraddockss-high/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "lakebraddockss-middle",
+          "name": "Lake Braddock Secondary School (Middle)",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://lakebraddockss.fcps.edu/sites/default/files/media/inline-files/Purple_Gold%20Calendar%20Student%2026-27.docx.pdf",
+          "rotationLabels": [
+            {
+              "id": "PURPLE",
+              "displayName": "Purple Day",
+              "colorHex": "#7A3E9D"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/lakebraddockss-middle/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "robinsonss-high",
+          "name": "Robinson Secondary School (High)",
+          "level": "high",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://robinsonss.fcps.edu/about/calendar-and-bell-schedules",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/robinsonss-high/2026-2027.json",
+          "calendarConfidence": "verified"
+        },
+        {
+          "id": "robinsonss-middle",
+          "name": "Robinson Secondary School (Middle)",
+          "level": "middle",
+          "currentSchoolYear": "2026-2027",
+          "isCalendarAvailable": true,
+          "sourceUrl": "https://robinsonss.fcps.edu/about/calendar-and-bell-schedules",
+          "rotationLabels": [
+            {
+              "id": "BLUE",
+              "displayName": "Blue Day",
+              "colorHex": "#2978FF"
+            },
+            {
+              "id": "GOLD",
+              "displayName": "Gold Day",
+              "colorHex": "#C99700"
+            }
+          ],
+          "calendarPath": "schools/fcps/robinsonss-middle/2026-2027.json",
+          "calendarConfidence": "verified"
+        }
+      ]
+    },
+    {
+      "id": "lcps",
+      "name": "Loudoun County Public Schools",
+      "state": "VA",
+      "schools": []
+    }
+  ]
+}

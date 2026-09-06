@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "oaktonhs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://oaktonhs.fcps.edu/bell-schedules",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": "12:55 PM",
+  "schedules": {
+    "BURGUNDY": {
+      "title": "Burgundy Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "burgundy-1st-period",
+          "name": "1st Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:40 AM",
+          "note": null
+        },
+        {
+          "id": "burgundy-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:47 AM",
+          "endTime": "11:16 AM",
+          "note": null
+        },
+        {
+          "id": "burgundy-5th-period",
+          "name": "5th Period",
+          "startTime": "11:22 AM",
+          "endTime": "1:22 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "burgundy-7th-period",
+          "name": "7th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "GOLD": {
+      "title": "Gold Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "gold-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:40 AM",
+          "note": null
+        },
+        {
+          "id": "gold-4th-period",
+          "name": "4th Period",
+          "startTime": "9:47 AM",
+          "endTime": "11:16 AM",
+          "note": null
+        },
+        {
+          "id": "gold-6th-period",
+          "name": "6th Period",
+          "startTime": "11:22 AM",
+          "endTime": "1:22 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "gold-8th-period",
+          "name": "8th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

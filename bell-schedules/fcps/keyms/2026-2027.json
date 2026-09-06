@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "keyms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://keyms.fcps.edu/sites/default/files/media/inline-files/Key%20Middle%20School%202026-2027%20Bell%20Schedules.pdf",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch and recess waves vary by grade.",
+      "periods": [
+        {
+          "id": "red-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:58 AM",
+          "note": "3 additional minutes for KeyNN broadcast"
+        },
+        {
+          "id": "red-period-3",
+          "name": "Period 3",
+          "startTime": "9:02 AM",
+          "endTime": "10:47 AM",
+          "note": "Attendance/recess timing varies by grade"
+        },
+        {
+          "id": "red-period-5",
+          "name": "Period 5",
+          "startTime": "10:51 AM",
+          "endTime": "12:46 PM",
+          "note": "Includes lunch; timing varies by class"
+        },
+        {
+          "id": "red-period-7",
+          "name": "Period 7",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch and recess waves vary by grade.",
+      "periods": [
+        {
+          "id": "blue-period-2",
+          "name": "Period 2",
+          "startTime": "7:30 AM",
+          "endTime": "8:58 AM",
+          "note": "3 additional minutes for KeyNN broadcast"
+        },
+        {
+          "id": "blue-period-4-learning-seminar",
+          "name": "Period 4 (Learning Seminar)",
+          "startTime": "9:02 AM",
+          "endTime": "10:02 AM",
+          "note": "Timing varies by grade"
+        },
+        {
+          "id": "blue-11th-period",
+          "name": "11th Period",
+          "startTime": "10:06 AM",
+          "endTime": "10:47 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-6",
+          "name": "Period 6",
+          "startTime": "10:51 AM",
+          "endTime": "12:46 PM",
+          "note": "Includes lunch; timing varies by class"
+        },
+        {
+          "id": "blue-period-8",
+          "name": "Period 8",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

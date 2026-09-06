@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "justicehs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://justicehs.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "red-1st-period",
+          "name": "1st Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:38 AM",
+          "note": null
+        },
+        {
+          "id": "red-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:45 AM",
+          "endTime": "11:13 AM",
+          "note": null
+        },
+        {
+          "id": "red-5th-period",
+          "name": "5th Period",
+          "startTime": "11:20 AM",
+          "endTime": "1:20 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "red-7th-period",
+          "name": "7th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:38 AM",
+          "note": "Advisory/intervention block"
+        },
+        {
+          "id": "blue-4th-period",
+          "name": "4th Period",
+          "startTime": "9:45 AM",
+          "endTime": "11:13 AM",
+          "note": null
+        },
+        {
+          "id": "blue-6th-period",
+          "name": "6th Period",
+          "startTime": "11:20 AM",
+          "endTime": "1:20 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-8th-period",
+          "name": "8th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

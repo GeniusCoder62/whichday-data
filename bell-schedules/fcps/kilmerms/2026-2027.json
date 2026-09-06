@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "kilmerms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://kilmerms.fcps.edu/sites/default/files/media/inline-files/Kilmer%20Middle%20School%20Bell%20Schedule%202025-2026%20%283%29.pdf",
+  "confidence": "verified",
+  "lastUpdated": "2026-08-02T22:52:42+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ANCHOR": {
+      "title": "Anchor Day",
+      "note": "Lunch and recess blocks vary by team.",
+      "periods": [
+        {
+          "id": "anchor-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:15 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-2",
+          "name": "Period 2",
+          "startTime": "8:20 AM",
+          "endTime": "9:02 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-3",
+          "name": "Period 3",
+          "startTime": "9:07 AM",
+          "endTime": "9:49 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-4",
+          "name": "Period 4",
+          "startTime": "9:54 AM",
+          "endTime": "10:36 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-5-lunch",
+          "name": "Period 5 / Lunch",
+          "startTime": "10:41 AM",
+          "endTime": "12:41 PM",
+          "note": "Includes lunch, advisory, and recess"
+        },
+        {
+          "id": "anchor-period-6",
+          "name": "Period 6",
+          "startTime": "12:46 PM",
+          "endTime": "1:28 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-8",
+          "name": "Period 8",
+          "startTime": "12:50 PM",
+          "endTime": "1:30 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-7",
+          "name": "Period 7",
+          "startTime": "1:33 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-9",
+          "name": "Period 9",
+          "startTime": "1:35 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "GREEN": {
+      "title": "Green Day",
+      "note": "Lunch and recess blocks vary by team.",
+      "periods": [
+        {
+          "id": "green-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:55 AM",
+          "note": null
+        },
+        {
+          "id": "green-period-3-recess",
+          "name": "Period 3 / Recess",
+          "startTime": "9:00 AM",
+          "endTime": "10:40 AM",
+          "note": null
+        },
+        {
+          "id": "green-period-5-lunch",
+          "name": "Period 5 / Lunch",
+          "startTime": "10:45 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "green-period-7",
+          "name": "Period 7",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch and recess blocks vary by team.",
+      "periods": [
+        {
+          "id": "blue-period-2",
+          "name": "Period 2",
+          "startTime": "7:30 AM",
+          "endTime": "8:55 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-4-recess",
+          "name": "Period 4 / Recess",
+          "startTime": "9:00 AM",
+          "endTime": "10:40 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-6-lunch",
+          "name": "Period 6 / Lunch",
+          "startTime": "10:45 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-period-8",
+          "name": "Period 8",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

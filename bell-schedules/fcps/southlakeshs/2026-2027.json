@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "southlakeshs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://southlakeshs.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-period-1",
+          "name": "Period 1",
+          "startTime": "8:10 AM",
+          "endTime": "9:36 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-3",
+          "name": "Period 3",
+          "startTime": "9:42 AM",
+          "endTime": "11:14 AM",
+          "note": "Announcements and Seahawk Seminar included"
+        },
+        {
+          "id": "blue-period-5",
+          "name": "Period 5",
+          "startTime": "11:20 AM",
+          "endTime": "1:20 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-period-7",
+          "name": "Period 7",
+          "startTime": "1:26 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "GREEN": {
+      "title": "Green Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "green-period-2",
+          "name": "Period 2",
+          "startTime": "8:10 AM",
+          "endTime": "9:36 AM",
+          "note": null
+        },
+        {
+          "id": "green-seahawk-seminar-advisory",
+          "name": "Seahawk Seminar / Advisory",
+          "startTime": "9:42 AM",
+          "endTime": "10:28 AM",
+          "note": null
+        },
+        {
+          "id": "green-seahawk-seminar",
+          "name": "Seahawk Seminar",
+          "startTime": "10:34 AM",
+          "endTime": "11:14 AM",
+          "note": null
+        },
+        {
+          "id": "green-period-6",
+          "name": "Period 6",
+          "startTime": "11:20 AM",
+          "endTime": "1:20 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "green-period-8",
+          "name": "Period 8",
+          "startTime": "1:26 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

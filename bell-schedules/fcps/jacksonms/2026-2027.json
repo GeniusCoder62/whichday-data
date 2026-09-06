@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "jacksonms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://jacksonms.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch and recess waves vary by class.",
+      "periods": [
+        {
+          "id": "red-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:57 AM",
+          "note": null
+        },
+        {
+          "id": "red-period-3",
+          "name": "Period 3",
+          "startTime": "9:01 AM",
+          "endTime": "10:28 AM",
+          "note": "Includes Advisory or Learning Seminar block"
+        },
+        {
+          "id": "red-period-5",
+          "name": "Period 5",
+          "startTime": "10:39 AM",
+          "endTime": "12:42 PM",
+          "note": "Includes lunch and recess; timing varies by wave"
+        },
+        {
+          "id": "red-period-7",
+          "name": "Period 7",
+          "startTime": "12:48 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLACK": {
+      "title": "Black Day",
+      "note": "Lunch and recess waves vary by class.",
+      "periods": [
+        {
+          "id": "black-period-2",
+          "name": "Period 2",
+          "startTime": "7:30 AM",
+          "endTime": "8:57 AM",
+          "note": null
+        },
+        {
+          "id": "black-period-4",
+          "name": "Period 4",
+          "startTime": "9:01 AM",
+          "endTime": "10:28 AM",
+          "note": "Includes Advisory or Learning Seminar block"
+        },
+        {
+          "id": "black-period-6",
+          "name": "Period 6",
+          "startTime": "10:32 AM",
+          "endTime": "12:44 PM",
+          "note": "Includes lunch and recess; timing varies by wave"
+        },
+        {
+          "id": "black-period-8",
+          "name": "Period 8",
+          "startTime": "12:48 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "rockyrunms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://rockyrunms.fcps.edu/about/bell-schedules",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-1st-period",
+          "name": "1st Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:55 AM",
+          "note": null
+        },
+        {
+          "id": "blue-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:00 AM",
+          "endTime": "10:30 AM",
+          "note": null
+        },
+        {
+          "id": "blue-recess",
+          "name": "Recess",
+          "startTime": "10:30 AM",
+          "endTime": "10:45 AM",
+          "note": null
+        },
+        {
+          "id": "blue-5th-period",
+          "name": "5th Period",
+          "startTime": "10:50 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-7th-period",
+          "name": "7th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "GOLD": {
+      "title": "Gold Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "gold-2nd-period",
+          "name": "2nd Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:55 AM",
+          "note": null
+        },
+        {
+          "id": "gold-4th-period",
+          "name": "4th Period",
+          "startTime": "9:00 AM",
+          "endTime": "10:30 AM",
+          "note": null
+        },
+        {
+          "id": "gold-recess",
+          "name": "Recess",
+          "startTime": "10:30 AM",
+          "endTime": "10:45 AM",
+          "note": null
+        },
+        {
+          "id": "gold-6th-period",
+          "name": "6th Period",
+          "startTime": "10:50 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "gold-8th-period-rock-time",
+          "name": "8th Period / Rock Time",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

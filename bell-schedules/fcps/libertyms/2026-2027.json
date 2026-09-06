@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "libertyms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://libertyms.fcps.edu/sites/default/files/media/inline-files/25-26%20Liberty%20Middle%20School%20Bell%20Schedule%20Website.pdf",
+  "confidence": "inferred",
+  "lastUpdated": "2026-07-31T03:35:20+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "red-period-1",
+          "name": "Period 1",
+          "startTime": "7:25 AM",
+          "endTime": "8:53 AM",
+          "note": null
+        },
+        {
+          "id": "red-period-3",
+          "name": "Period 3",
+          "startTime": "8:57 AM",
+          "endTime": "10:25 AM",
+          "note": null
+        },
+        {
+          "id": "red-period-5",
+          "name": "Period 5",
+          "startTime": "10:29 AM",
+          "endTime": "12:43 PM",
+          "note": "Includes lunch and recess"
+        },
+        {
+          "id": "red-period-7",
+          "name": "Period 7",
+          "startTime": "12:47 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "blue-period-2",
+          "name": "Period 2",
+          "startTime": "7:25 AM",
+          "endTime": "8:53 AM",
+          "note": "Unity Time"
+        },
+        {
+          "id": "blue-period-4",
+          "name": "Period 4",
+          "startTime": "8:57 AM",
+          "endTime": "10:25 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-6",
+          "name": "Period 6",
+          "startTime": "10:29 AM",
+          "endTime": "12:43 PM",
+          "note": "Includes lunch and recess"
+        },
+        {
+          "id": "blue-period-8",
+          "name": "Period 8",
+          "startTime": "12:47 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

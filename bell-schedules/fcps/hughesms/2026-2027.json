@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "hughesms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://hughesms.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch and break blocks vary by team.",
+      "periods": [
+        {
+          "id": "blue-1st-period-morning-news",
+          "name": "1st Period / Morning News",
+          "startTime": "7:30 AM",
+          "endTime": "9:00 AM",
+          "note": "Morning news starts at 7:30"
+        },
+        {
+          "id": "blue-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:03 AM",
+          "endTime": "9:46 AM",
+          "note": null
+        },
+        {
+          "id": "blue-4th-period-advisory",
+          "name": "4th Period / Advisory",
+          "startTime": "9:49 AM",
+          "endTime": "10:29 AM",
+          "note": null
+        },
+        {
+          "id": "blue-5th-period",
+          "name": "5th Period",
+          "startTime": "10:32 AM",
+          "endTime": "12:47 PM",
+          "note": "Includes lunch and break"
+        },
+        {
+          "id": "blue-7th-period",
+          "name": "7th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "GREY": {
+      "title": "Gray Day",
+      "note": "Lunch and break blocks vary by team.",
+      "periods": [
+        {
+          "id": "grey-2nd-period-morning-news",
+          "name": "2nd Period / Morning News",
+          "startTime": "7:30 AM",
+          "endTime": "9:00 AM",
+          "note": "Morning news starts at 7:30"
+        },
+        {
+          "id": "grey-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:03 AM",
+          "endTime": "9:46 AM",
+          "note": null
+        },
+        {
+          "id": "grey-4th-period-advisory",
+          "name": "4th Period / Advisory",
+          "startTime": "9:49 AM",
+          "endTime": "10:29 AM",
+          "note": null
+        },
+        {
+          "id": "grey-6th-period",
+          "name": "6th Period",
+          "startTime": "10:32 AM",
+          "endTime": "12:47 PM",
+          "note": "Includes lunch and break"
+        },
+        {
+          "id": "grey-8th-period",
+          "name": "8th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

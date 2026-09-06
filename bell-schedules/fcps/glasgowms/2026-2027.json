@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "glasgowms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://glasgowms.fcps.edu/sites/default/files/media/inline-files/FINAL%202025-2026%20Glasgow%20Middle%20School%20Bell%20Schedule.pdf",
+  "confidence": "verified",
+  "lastUpdated": "2026-08-13T05:08:20+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ODD": {
+      "title": "Odd Day",
+      "note": "Lunch and recess waves vary by grade.",
+      "periods": [
+        {
+          "id": "odd-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "9:00 AM",
+          "note": null
+        },
+        {
+          "id": "odd-period-3",
+          "name": "Period 3",
+          "startTime": "9:05 AM",
+          "endTime": "10:40 AM",
+          "note": "Includes embedded recess"
+        },
+        {
+          "id": "odd-period-5",
+          "name": "Period 5",
+          "startTime": "10:45 AM",
+          "endTime": "12:40 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "odd-period-7",
+          "name": "Period 7",
+          "startTime": "12:45 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "EVEN": {
+      "title": "Even Day",
+      "note": "Lunch and recess waves vary by grade.",
+      "periods": [
+        {
+          "id": "even-period-2",
+          "name": "Period 2",
+          "startTime": "7:30 AM",
+          "endTime": "9:00 AM",
+          "note": null
+        },
+        {
+          "id": "even-period-4",
+          "name": "Period 4",
+          "startTime": "9:05 AM",
+          "endTime": "10:40 AM",
+          "note": "Includes embedded recess"
+        },
+        {
+          "id": "even-period-6",
+          "name": "Period 6",
+          "startTime": "10:45 AM",
+          "endTime": "12:40 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "even-period-8",
+          "name": "Period 8",
+          "startTime": "12:45 PM",
+          "endTime": "2:15 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

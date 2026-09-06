@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "herndonhs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://herndonhs.fcps.edu/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "red-1st-period",
+          "name": "1st Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:43 AM",
+          "note": null
+        },
+        {
+          "id": "red-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:49 AM",
+          "endTime": "11:16 AM",
+          "note": null
+        },
+        {
+          "id": "red-5th-period",
+          "name": "5th Period",
+          "startTime": "11:22 AM",
+          "endTime": "1:21 PM",
+          "note": "Includes lunch; lunch wave timing varies by class"
+        },
+        {
+          "id": "red-7th-period",
+          "name": "7th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLACK": {
+      "title": "Black Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "black-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:43 AM",
+          "note": null
+        },
+        {
+          "id": "black-4th-period",
+          "name": "4th Period",
+          "startTime": "9:49 AM",
+          "endTime": "11:16 AM",
+          "note": null
+        },
+        {
+          "id": "black-6th-period",
+          "name": "6th Period",
+          "startTime": "11:22 AM",
+          "endTime": "1:21 PM",
+          "note": "Includes lunch; lunch wave timing varies by class"
+        },
+        {
+          "id": "black-8th-period",
+          "name": "8th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "southcountyhs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://southcountyhs.fcps.edu/sites/default/files/media/inline-files/schs_bellschedule.pdf",
+  "confidence": "verified",
+  "lastUpdated": "2026-08-02T22:52:42+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "GREEN": {
+      "title": "Green Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "green-period-1",
+          "name": "Period 1",
+          "startTime": "8:10 AM",
+          "endTime": "9:40 AM",
+          "note": null
+        },
+        {
+          "id": "green-period-3",
+          "name": "Period 3",
+          "startTime": "9:46 AM",
+          "endTime": "11:17 AM",
+          "note": "May include advisory/Stallion Time"
+        },
+        {
+          "id": "green-period-5",
+          "name": "Period 5",
+          "startTime": "11:23 AM",
+          "endTime": "1:23 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "green-period-7",
+          "name": "Period 7",
+          "startTime": "1:29 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-period-2",
+          "name": "Period 2",
+          "startTime": "8:10 AM",
+          "endTime": "9:40 AM",
+          "note": null
+        },
+        {
+          "id": "blue-advisory",
+          "name": "Advisory",
+          "startTime": "9:46 AM",
+          "endTime": "11:17 AM",
+          "note": "May include Stallion Time"
+        },
+        {
+          "id": "blue-period-6",
+          "name": "Period 6",
+          "startTime": "11:23 AM",
+          "endTime": "1:23 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-period-8",
+          "name": "Period 8",
+          "startTime": "1:29 PM",
+          "endTime": "2:55 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

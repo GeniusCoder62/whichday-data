@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "irvingms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://irvingms.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch and break waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-1st-period",
+          "name": "1st Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:07 AM",
+          "note": null
+        },
+        {
+          "id": "blue-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:11 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "blue-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:00 AM",
+          "endTime": "10:25 AM",
+          "note": null
+        },
+        {
+          "id": "blue-5th-period",
+          "name": "5th Period",
+          "startTime": "10:29 AM",
+          "endTime": "12:46 PM",
+          "note": "Includes lunch and break"
+        },
+        {
+          "id": "blue-7th-period",
+          "name": "7th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "WHITE": {
+      "title": "White Day",
+      "note": "Lunch and break waves vary by class.",
+      "periods": [
+        {
+          "id": "white-1st-period",
+          "name": "1st Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:07 AM",
+          "note": null
+        },
+        {
+          "id": "white-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:11 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "white-4th-period",
+          "name": "4th Period",
+          "startTime": "9:00 AM",
+          "endTime": "10:25 AM",
+          "note": null
+        },
+        {
+          "id": "white-6th-period",
+          "name": "6th Period",
+          "startTime": "10:29 AM",
+          "endTime": "12:46 PM",
+          "note": "Includes lunch and break"
+        },
+        {
+          "id": "white-8th-period",
+          "name": "8th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

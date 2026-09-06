@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "stonems",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://stonems.fcps.edu/about/bell-schedule",
+  "confidence": "inferred",
+  "lastUpdated": "2026-07-31T03:35:20+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ODD": {
+      "title": "Odd Day",
+      "note": "Lunch waves vary by team/course.",
+      "periods": [
+        {
+          "id": "odd-1st-period-news",
+          "name": "1st Period / News",
+          "startTime": "7:30 AM",
+          "endTime": "9:00 AM",
+          "note": null
+        },
+        {
+          "id": "odd-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:05 AM",
+          "endTime": "10:30 AM",
+          "note": null
+        },
+        {
+          "id": "odd-break",
+          "name": "Break",
+          "startTime": "10:30 AM",
+          "endTime": "10:45 AM",
+          "note": null
+        },
+        {
+          "id": "odd-5th-period",
+          "name": "5th Period",
+          "startTime": "10:50 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "odd-7th-period",
+          "name": "7th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "EVEN": {
+      "title": "Even Day",
+      "note": "Lunch waves vary by team/course.",
+      "periods": [
+        {
+          "id": "even-2nd-period-news",
+          "name": "2nd Period / News",
+          "startTime": "7:30 AM",
+          "endTime": "9:00 AM",
+          "note": null
+        },
+        {
+          "id": "even-4th-period",
+          "name": "4th Period",
+          "startTime": "9:05 AM",
+          "endTime": "10:30 AM",
+          "note": "Flex and Panther Block"
+        },
+        {
+          "id": "even-break",
+          "name": "Break",
+          "startTime": "10:30 AM",
+          "endTime": "10:45 AM",
+          "note": null
+        },
+        {
+          "id": "even-6th-period",
+          "name": "6th Period",
+          "startTime": "10:50 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "even-8th-period",
+          "name": "8th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

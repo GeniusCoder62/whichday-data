@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "longfellowms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://longfellowms.fcps.edu/bell-schedule",
+  "confidence": "inferred",
+  "lastUpdated": "2026-07-31T03:35:20+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ANCHOR": {
+      "title": "Anchor Day",
+      "note": "Lunch and recess blocks vary by group.",
+      "periods": [
+        {
+          "id": "anchor-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:14 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-2",
+          "name": "Period 2",
+          "startTime": "8:19 AM",
+          "endTime": "9:01 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-3",
+          "name": "Period 3",
+          "startTime": "9:06 AM",
+          "endTime": "9:48 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-5",
+          "name": "Period 5",
+          "startTime": "9:53 AM",
+          "endTime": "10:35 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-6-lunch-recess-sel",
+          "name": "Period 6 / Lunch / Recess / SEL",
+          "startTime": "10:40 AM",
+          "endTime": "12:40 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-7",
+          "name": "Period 7",
+          "startTime": "12:45 PM",
+          "endTime": "1:27 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-8",
+          "name": "Period 8",
+          "startTime": "1:32 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch and recess blocks vary by group.",
+      "periods": [
+        {
+          "id": "blue-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:55 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-3",
+          "name": "Period 3",
+          "startTime": "9:00 AM",
+          "endTime": "9:45 AM",
+          "note": null
+        },
+        {
+          "id": "blue-learning-seminar-and-recess",
+          "name": "Learning Seminar and Recess",
+          "startTime": "9:50 AM",
+          "endTime": "10:40 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-5",
+          "name": "Period 5",
+          "startTime": "10:45 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-period-7",
+          "name": "Period 7",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "SILVER": {
+      "title": "Silver Day",
+      "note": "Lunch and recess blocks vary by group.",
+      "periods": [
+        {
+          "id": "silver-period-2",
+          "name": "Period 2",
+          "startTime": "7:30 AM",
+          "endTime": "8:55 AM",
+          "note": null
+        },
+        {
+          "id": "silver-period-3",
+          "name": "Period 3",
+          "startTime": "9:00 AM",
+          "endTime": "9:45 AM",
+          "note": null
+        },
+        {
+          "id": "silver-learning-seminar-and-recess",
+          "name": "Learning Seminar and Recess",
+          "startTime": "9:50 AM",
+          "endTime": "10:40 AM",
+          "note": null
+        },
+        {
+          "id": "silver-period-6",
+          "name": "Period 6",
+          "startTime": "10:45 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "silver-period-8",
+          "name": "Period 8",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "poems",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://poems.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "BLACK": {
+      "title": "Black Day",
+      "note": "Poe publishes paired period bell times for Black/Gold days.",
+      "periods": [
+        {
+          "id": "black-1st-2nd-period",
+          "name": "1st / 2nd Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "black-3rd-period-advisory",
+          "name": "3rd Period / Advisory",
+          "startTime": "9:01 AM",
+          "endTime": "9:36 AM",
+          "note": "Advisory / Raven Time"
+        },
+        {
+          "id": "black-4th-period",
+          "name": "4th Period",
+          "startTime": "9:41 AM",
+          "endTime": "10:24 AM",
+          "note": null
+        },
+        {
+          "id": "black-5th-6th-period",
+          "name": "5th / 6th Period",
+          "startTime": "10:29 AM",
+          "endTime": "12:44 PM",
+          "note": "Includes lunch and break"
+        },
+        {
+          "id": "black-7th-8th-period",
+          "name": "7th / 8th Period",
+          "startTime": "12:49 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "GOLD": {
+      "title": "Gold Day",
+      "note": "Poe publishes paired period bell times for Black/Gold days.",
+      "periods": [
+        {
+          "id": "gold-1st-2nd-period",
+          "name": "1st / 2nd Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "gold-3rd-period-advisory",
+          "name": "3rd Period / Advisory",
+          "startTime": "9:01 AM",
+          "endTime": "9:36 AM",
+          "note": "Advisory / Raven Time"
+        },
+        {
+          "id": "gold-4th-period",
+          "name": "4th Period",
+          "startTime": "9:41 AM",
+          "endTime": "10:24 AM",
+          "note": null
+        },
+        {
+          "id": "gold-5th-6th-period",
+          "name": "5th / 6th Period",
+          "startTime": "10:29 AM",
+          "endTime": "12:44 PM",
+          "note": "Includes lunch and break"
+        },
+        {
+          "id": "gold-7th-8th-period",
+          "name": "7th / 8th Period",
+          "startTime": "12:49 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

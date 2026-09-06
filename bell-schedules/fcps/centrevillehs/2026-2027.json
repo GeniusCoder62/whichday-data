@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "centrevillehs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://centrevillehs.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "WHITE": {
+      "title": "White Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "white-period-1",
+          "name": "Period 1",
+          "startTime": "8:10 AM",
+          "endTime": "9:37 AM",
+          "note": "Announcements follow period 1"
+        },
+        {
+          "id": "white-roar",
+          "name": "ROAR",
+          "startTime": "9:50 AM",
+          "endTime": "10:20 AM",
+          "note": null
+        },
+        {
+          "id": "white-cats-period",
+          "name": "CATS Period",
+          "startTime": "10:25 AM",
+          "endTime": "11:15 AM",
+          "note": null
+        },
+        {
+          "id": "white-period-5",
+          "name": "Period 5",
+          "startTime": "11:22 AM",
+          "endTime": "1:22 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "white-period-7",
+          "name": "Period 7",
+          "startTime": "1:29 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-period-2",
+          "name": "Period 2",
+          "startTime": "8:10 AM",
+          "endTime": "9:37 AM",
+          "note": "Announcements follow period 2"
+        },
+        {
+          "id": "blue-period-4",
+          "name": "Period 4",
+          "startTime": "9:50 AM",
+          "endTime": "11:15 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-6",
+          "name": "Period 6",
+          "startTime": "11:22 AM",
+          "endTime": "1:22 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-period-8",
+          "name": "Period 8",
+          "startTime": "1:29 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

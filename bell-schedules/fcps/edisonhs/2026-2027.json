@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "edisonhs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://edisonhs.fcps.edu/about/bell-schedules",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "red-1st-period",
+          "name": "1st Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:28 AM",
+          "note": null
+        },
+        {
+          "id": "red-advisory",
+          "name": "Advisory",
+          "startTime": "9:35 AM",
+          "endTime": "10:05 AM",
+          "note": "4th period advisory"
+        },
+        {
+          "id": "red-3rd-period",
+          "name": "3rd Period",
+          "startTime": "10:12 AM",
+          "endTime": "11:30 AM",
+          "note": null
+        },
+        {
+          "id": "red-5th-period",
+          "name": "5th Period",
+          "startTime": "11:37 AM",
+          "endTime": "1:30 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "red-7th-period",
+          "name": "7th Period",
+          "startTime": "1:37 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:28 AM",
+          "note": null
+        },
+        {
+          "id": "blue-advisory",
+          "name": "Advisory",
+          "startTime": "9:35 AM",
+          "endTime": "10:05 AM",
+          "note": "4th period advisory"
+        },
+        {
+          "id": "blue-return-periods",
+          "name": "Return Periods",
+          "startTime": "10:12 AM",
+          "endTime": "11:30 AM",
+          "note": "Flex and return blocks"
+        },
+        {
+          "id": "blue-6th-period",
+          "name": "6th Period",
+          "startTime": "11:37 AM",
+          "endTime": "1:30 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-8th-period",
+          "name": "8th Period",
+          "startTime": "1:37 PM",
+          "endTime": "2:55 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

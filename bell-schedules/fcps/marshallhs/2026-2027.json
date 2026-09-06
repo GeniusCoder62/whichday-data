@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "marshallhs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://marshallhs.fcps.edu/about",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "red-period-1",
+          "name": "Period 1",
+          "startTime": "8:10 AM",
+          "endTime": "9:29 AM",
+          "note": "Announcements follow period 1"
+        },
+        {
+          "id": "red-learn-advisory",
+          "name": "Learn / Advisory",
+          "startTime": "9:39 AM",
+          "endTime": "10:09 AM",
+          "note": "Learn on M/T/Th/F; Advisory on W"
+        },
+        {
+          "id": "red-period-3",
+          "name": "Period 3",
+          "startTime": "10:15 AM",
+          "endTime": "11:34 AM",
+          "note": null
+        },
+        {
+          "id": "red-period-5",
+          "name": "Period 5",
+          "startTime": "11:39 AM",
+          "endTime": "1:29 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "red-period-7",
+          "name": "Period 7",
+          "startTime": "1:35 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "blue-period-2",
+          "name": "Period 2",
+          "startTime": "8:10 AM",
+          "endTime": "9:29 AM",
+          "note": "Announcements follow period 2"
+        },
+        {
+          "id": "blue-learn-advisory",
+          "name": "Learn / Advisory",
+          "startTime": "9:39 AM",
+          "endTime": "10:09 AM",
+          "note": "Learn on M/T/Th/F; Advisory on W"
+        },
+        {
+          "id": "blue-return-period",
+          "name": "Return Period",
+          "startTime": "10:15 AM",
+          "endTime": "11:34 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-6",
+          "name": "Period 6",
+          "startTime": "11:39 AM",
+          "endTime": "1:29 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "blue-period-8",
+          "name": "Period 8",
+          "startTime": "1:35 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

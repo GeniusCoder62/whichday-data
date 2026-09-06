@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "thoreaums",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://thoreaums.fcps.edu/about/blue-gold-day-calendar",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "GOLD": {
+      "title": "Gold Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "gold-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:15 AM",
+          "note": "EMN included"
+        },
+        {
+          "id": "gold-period-3",
+          "name": "Period 3",
+          "startTime": "8:19 AM",
+          "endTime": "9:44 AM",
+          "note": null
+        },
+        {
+          "id": "gold-period-5",
+          "name": "Period 5",
+          "startTime": "9:48 AM",
+          "endTime": "10:31 AM",
+          "note": "Advisory lessons/Eagle Time"
+        },
+        {
+          "id": "gold-period-7",
+          "name": "Period 7",
+          "startTime": "10:35 AM",
+          "endTime": "12:46 PM",
+          "note": "Includes lunch and recess"
+        },
+        {
+          "id": "gold-period-9",
+          "name": "Period 9",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "blue-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:15 AM",
+          "note": "EMN included"
+        },
+        {
+          "id": "blue-period-2",
+          "name": "Period 2",
+          "startTime": "8:19 AM",
+          "endTime": "9:44 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-4",
+          "name": "Period 4",
+          "startTime": "9:48 AM",
+          "endTime": "10:31 AM",
+          "note": "Advisory lessons/Eagle Time"
+        },
+        {
+          "id": "blue-period-6",
+          "name": "Period 6",
+          "startTime": "10:35 AM",
+          "endTime": "12:46 PM",
+          "note": "Includes lunch and recess"
+        },
+        {
+          "id": "blue-period-8",
+          "name": "Period 8",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

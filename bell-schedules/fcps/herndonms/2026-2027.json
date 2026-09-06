@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "herndonms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://herndonms.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ANCHOR": {
+      "title": "Anchor Day",
+      "note": "Lunch and break blocks vary by team.",
+      "periods": [
+        {
+          "id": "anchor-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:13 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-2",
+          "name": "Period 2",
+          "startTime": "8:17 AM",
+          "endTime": "9:01 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-3",
+          "name": "Period 3",
+          "startTime": "9:05 AM",
+          "endTime": "9:48 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-4",
+          "name": "Period 4",
+          "startTime": "9:52 AM",
+          "endTime": "10:36 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-5-and-lunch",
+          "name": "Period 5 and Lunch",
+          "startTime": "10:40 AM",
+          "endTime": "12:40 PM",
+          "note": "Lunch wave (A, B, or C) varies by class"
+        },
+        {
+          "id": "anchor-period-6",
+          "name": "Period 6",
+          "startTime": "12:44 PM",
+          "endTime": "1:27 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-7",
+          "name": "Period 7",
+          "startTime": "1:31 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch and break blocks vary by team.",
+      "periods": [
+        {
+          "id": "red-1st-period-learning-seminar",
+          "name": "1st Period / Learning Seminar",
+          "startTime": "7:30 AM",
+          "endTime": "8:35 AM",
+          "note": null
+        },
+        {
+          "id": "red-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:34 AM",
+          "endTime": "10:49 AM",
+          "note": null
+        },
+        {
+          "id": "red-5th-period",
+          "name": "5th Period",
+          "startTime": "10:53 AM",
+          "endTime": "12:56 PM",
+          "note": "Includes lunch and break"
+        },
+        {
+          "id": "red-7th-period",
+          "name": "7th Period",
+          "startTime": "1:00 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLACK": {
+      "title": "Black Day",
+      "note": "Lunch and break blocks vary by team.",
+      "periods": [
+        {
+          "id": "black-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:40 AM",
+          "endTime": "9:30 AM",
+          "note": "Includes second breakfast"
+        },
+        {
+          "id": "black-4th-period",
+          "name": "4th Period",
+          "startTime": "9:34 AM",
+          "endTime": "10:49 AM",
+          "note": null
+        },
+        {
+          "id": "black-6th-period",
+          "name": "6th Period",
+          "startTime": "10:53 AM",
+          "endTime": "12:56 PM",
+          "note": "Includes lunch and break"
+        },
+        {
+          "id": "black-8th-period",
+          "name": "8th Period",
+          "startTime": "1:00 PM",
+          "endTime": "2:15 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

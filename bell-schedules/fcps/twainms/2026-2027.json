@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "twainms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://twainms.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ANCHOR": {
+      "title": "Anchor Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "anchor-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:16 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-2",
+          "name": "Period 2",
+          "startTime": "8:20 AM",
+          "endTime": "9:03 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-3",
+          "name": "Period 3",
+          "startTime": "9:07 AM",
+          "endTime": "9:50 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-5",
+          "name": "Period 5",
+          "startTime": "9:54 AM",
+          "endTime": "10:37 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-6",
+          "name": "Period 6",
+          "startTime": "10:41 AM",
+          "endTime": "12:41 PM",
+          "note": "Includes lunch, SEL, and recess"
+        },
+        {
+          "id": "anchor-period-7",
+          "name": "Period 7",
+          "startTime": "12:45 PM",
+          "endTime": "1:28 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-8",
+          "name": "Period 8",
+          "startTime": "1:32 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "ODD": {
+      "title": "Odd Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "odd-period-1",
+          "name": "Period 1",
+          "startTime": "7:30 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "odd-period-3",
+          "name": "Period 3",
+          "startTime": "9:00 AM",
+          "endTime": "10:26 AM",
+          "note": null
+        },
+        {
+          "id": "odd-period-5",
+          "name": "Period 5",
+          "startTime": "10:30 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch and recess"
+        },
+        {
+          "id": "odd-period-7",
+          "name": "Period 7",
+          "startTime": "12:49 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "EVEN": {
+      "title": "Even Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "even-period-2",
+          "name": "Period 2",
+          "startTime": "7:30 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "even-period-4",
+          "name": "Period 4",
+          "startTime": "9:00 AM",
+          "endTime": "10:26 AM",
+          "note": null
+        },
+        {
+          "id": "even-period-6",
+          "name": "Period 6",
+          "startTime": "10:30 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch and recess"
+        },
+        {
+          "id": "even-period-8",
+          "name": "Period 8",
+          "startTime": "12:49 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

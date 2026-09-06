@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "woodsonhs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://woodsonhs.fcps.edu/about-us/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ODD": {
+      "title": "Odd Day",
+      "note": "Lunch waves vary by department.",
+      "periods": [
+        {
+          "id": "odd-1st-period",
+          "name": "1st Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:40 AM",
+          "note": null
+        },
+        {
+          "id": "odd-3rd-period-learning-seminar",
+          "name": "3rd Period / Learning Seminar",
+          "startTime": "9:47 AM",
+          "endTime": "11:15 AM",
+          "note": null
+        },
+        {
+          "id": "odd-5th-period",
+          "name": "5th Period",
+          "startTime": "11:22 AM",
+          "endTime": "1:20 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "odd-7th-period",
+          "name": "7th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "EVEN": {
+      "title": "Even Day",
+      "note": "Lunch waves vary by department.",
+      "periods": [
+        {
+          "id": "even-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:40 AM",
+          "note": null
+        },
+        {
+          "id": "even-4th-period",
+          "name": "4th Period",
+          "startTime": "9:47 AM",
+          "endTime": "11:15 AM",
+          "note": null
+        },
+        {
+          "id": "even-6th-period",
+          "name": "6th Period",
+          "startTime": "11:22 AM",
+          "endTime": "1:20 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "even-8th-period",
+          "name": "8th Period",
+          "startTime": "1:27 PM",
+          "endTime": "2:55 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

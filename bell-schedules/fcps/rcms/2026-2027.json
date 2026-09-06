@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "rcms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://carsonms.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": "7:10 AM",
+  "dismissalTime": "2:15 PM",
+  "schedules": {
+    "A": {
+      "title": "A Day",
+      "note": "Lunch wave varies by grade.",
+      "periods": [
+        {
+          "id": "a-1st-period",
+          "name": "1st Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:55 AM",
+          "note": null
+        },
+        {
+          "id": "a-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:00 AM",
+          "endTime": "10:25 AM",
+          "note": null
+        },
+        {
+          "id": "a-5th-period",
+          "name": "5th Period",
+          "startTime": "10:30 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "a-7th-period",
+          "name": "7th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "B": {
+      "title": "B Day",
+      "note": "Lunch wave varies by grade.",
+      "periods": [
+        {
+          "id": "b-2nd-period",
+          "name": "2nd Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:55 AM",
+          "note": null
+        },
+        {
+          "id": "b-4th-period",
+          "name": "4th Period",
+          "startTime": "9:00 AM",
+          "endTime": "10:25 AM",
+          "note": null
+        },
+        {
+          "id": "b-6th-period",
+          "name": "6th Period",
+          "startTime": "10:30 AM",
+          "endTime": "12:45 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "b-8th-period",
+          "name": "8th Period",
+          "startTime": "12:50 PM",
+          "endTime": "2:15 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

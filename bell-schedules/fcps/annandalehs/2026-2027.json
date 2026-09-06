@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "annandalehs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://annandalehs.fcps.edu/about/bell-schedule",
+  "confidence": "inferred",
+  "lastUpdated": "2026-07-31T03:35:20+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "red-1st-period",
+          "name": "1st Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:35 AM",
+          "note": null
+        },
+        {
+          "id": "red-breakfast",
+          "name": "Breakfast",
+          "startTime": "9:35 AM",
+          "endTime": "9:50 AM",
+          "note": null
+        },
+        {
+          "id": "red-3rd-period",
+          "name": "3rd Period",
+          "startTime": "9:50 AM",
+          "endTime": "11:15 AM",
+          "note": null
+        },
+        {
+          "id": "red-5th-period-lunch",
+          "name": "5th Period / Lunch",
+          "startTime": "11:22 AM",
+          "endTime": "1:22 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "red-7th-period",
+          "name": "7th Period",
+          "startTime": "1:29 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "WHITE": {
+      "title": "White Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "white-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:35 AM",
+          "note": null
+        },
+        {
+          "id": "white-breakfast",
+          "name": "Breakfast",
+          "startTime": "9:35 AM",
+          "endTime": "9:50 AM",
+          "note": null
+        },
+        {
+          "id": "white-pride-time",
+          "name": "Pride Time",
+          "startTime": "10:27 AM",
+          "endTime": "11:15 AM",
+          "note": null
+        },
+        {
+          "id": "white-6th-period-lunch",
+          "name": "6th Period / Lunch",
+          "startTime": "11:22 AM",
+          "endTime": "1:22 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "white-8th-period",
+          "name": "8th Period",
+          "startTime": "1:29 PM",
+          "endTime": "2:55 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

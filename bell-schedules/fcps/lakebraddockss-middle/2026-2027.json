@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "lakebraddockss-middle",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://lakebraddockss.fcps.edu/sites/default/files/media/inline-files/For%20Website%20HS%20Back%20to%20School%20Night%20Flyer%202026%20-%20To%20Be%20Printed%20with%20Student%20Schedules.doc.pdf",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "PURPLE": {
+      "title": "Purple Day",
+      "note": "Lunch and recess blocks vary by team.",
+      "periods": [
+        {
+          "id": "purple-period-1",
+          "name": "Period 1",
+          "startTime": "8:00 AM",
+          "endTime": "9:28 AM",
+          "note": null
+        },
+        {
+          "id": "purple-period-3",
+          "name": "Period 3",
+          "startTime": "9:35 AM",
+          "endTime": "11:30 AM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "purple-period-5",
+          "name": "Period 5",
+          "startTime": "11:37 AM",
+          "endTime": "1:12 PM",
+          "note": "Includes recess"
+        },
+        {
+          "id": "purple-period-7",
+          "name": "Period 7",
+          "startTime": "1:19 PM",
+          "endTime": "2:45 PM",
+          "note": null
+        }
+      ]
+    },
+    "GOLD": {
+      "title": "Gold Day",
+      "note": "Lunch and recess blocks vary by team.",
+      "periods": [
+        {
+          "id": "gold-bruin-block",
+          "name": "Bruin Block",
+          "startTime": "8:00 AM",
+          "endTime": "9:28 AM",
+          "note": "Advisory and Bruin Time"
+        },
+        {
+          "id": "gold-period-4",
+          "name": "Period 4",
+          "startTime": "9:35 AM",
+          "endTime": "11:30 AM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "gold-period-6",
+          "name": "Period 6",
+          "startTime": "11:37 AM",
+          "endTime": "1:12 PM",
+          "note": "Includes recess"
+        },
+        {
+          "id": "gold-period-8",
+          "name": "Period 8",
+          "startTime": "1:19 PM",
+          "endTime": "2:45 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "whitmanms",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://whitmanms.fcps.edu/about/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": "7:05 AM",
+  "dismissalTime": null,
+  "schedules": {
+    "MAROON": {
+      "title": "Maroon Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "maroon-1st-period",
+          "name": "1st Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "maroon-3rd-period-advisory",
+          "name": "3rd Period / Advisory",
+          "startTime": "9:00 AM",
+          "endTime": "9:43 AM",
+          "note": null
+        },
+        {
+          "id": "maroon-4th-period",
+          "name": "4th Period",
+          "startTime": "9:47 AM",
+          "endTime": "10:30 AM",
+          "note": null
+        },
+        {
+          "id": "maroon-5th-period",
+          "name": "5th Period",
+          "startTime": "10:34 AM",
+          "endTime": "12:49 PM",
+          "note": "Includes lunch and recess"
+        },
+        {
+          "id": "maroon-7th-period",
+          "name": "7th Period",
+          "startTime": "12:53 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        }
+      ]
+    },
+    "SILVER": {
+      "title": "Silver Day",
+      "note": "Lunch and recess waves vary by team.",
+      "periods": [
+        {
+          "id": "silver-2nd-period",
+          "name": "2nd Period",
+          "startTime": "7:30 AM",
+          "endTime": "8:56 AM",
+          "note": null
+        },
+        {
+          "id": "silver-3rd-period-advisory",
+          "name": "3rd Period / Advisory",
+          "startTime": "9:00 AM",
+          "endTime": "9:43 AM",
+          "note": null
+        },
+        {
+          "id": "silver-4th-period",
+          "name": "4th Period",
+          "startTime": "9:47 AM",
+          "endTime": "10:30 AM",
+          "note": null
+        },
+        {
+          "id": "silver-6th-period",
+          "name": "6th Period",
+          "startTime": "10:34 AM",
+          "endTime": "12:49 PM",
+          "note": "Includes lunch and recess"
+        },
+        {
+          "id": "silver-8th-period",
+          "name": "8th Period",
+          "startTime": "12:53 PM",
+          "endTime": "2:15 PM",
+          "note": "May include return period/advisory block"
+        }
+      ]
+    }
+  }
+}

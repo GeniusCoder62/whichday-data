@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "mcleanhs",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://mcleanhs.fcps.edu/bell-schedule",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "RED": {
+      "title": "Red Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "red-1st-period",
+          "name": "1st Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:40 AM",
+          "note": null
+        },
+        {
+          "id": "red-highlander-time",
+          "name": "Highlander Time",
+          "startTime": "9:46 AM",
+          "endTime": "10:17 AM",
+          "note": null
+        },
+        {
+          "id": "red-3rd-period",
+          "name": "3rd Period",
+          "startTime": "10:23 AM",
+          "endTime": "11:13 AM",
+          "note": null
+        },
+        {
+          "id": "red-5th-period",
+          "name": "5th Period",
+          "startTime": "11:19 AM",
+          "endTime": "1:19 PM",
+          "note": "Includes lunch"
+        },
+        {
+          "id": "red-7th-period",
+          "name": "7th Period",
+          "startTime": "1:25 PM",
+          "endTime": "2:55 PM",
+          "note": null
+        }
+      ]
+    },
+    "SILVER": {
+      "title": "Silver Day",
+      "note": "Lunch waves vary by class.",
+      "periods": [
+        {
+          "id": "silver-2nd-period",
+          "name": "2nd Period",
+          "startTime": "8:10 AM",
+          "endTime": "9:40 AM",
+          "note": null
+        },
+        {
+          "id": "silver-highlander-time",
+          "name": "Highlander Time",
+          "startTime": "9:46 AM",
+          "endTime": "10:17 AM",
+          "note": null
+        },
+        {
+          "id": "silver-3rd-period",
+          "name": "3rd Period",
+          "startTime": "10:23 AM",
+          "endTime": "11:13 AM",
+          "note": null
+        },
+        {
+          "id": "silver-4th-period",
+          "name": "4th Period",
+          "startTime": "11:19 AM",
+          "endTime": "1:19 PM",
+          "note": "Includes lunch block"
+        },
+        {
+          "id": "silver-6th-period",
+          "name": "6th Period",
+          "startTime": "1:25 PM",
+          "endTime": "2:55 PM",
+          "note": "Includes lunch"
+        }
+      ]
+    }
+  }
+}

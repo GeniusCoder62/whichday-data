@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "districtId": "fcps",
+  "schoolId": "tjhsst",
+  "schoolYear": "2026-2027",
+  "sourceUrl": "https://tjhsst.fcps.edu/about/bell-schedules",
+  "confidence": "verified",
+  "lastUpdated": "2026-09-06T12:55:01+00:00",
+  "buildingOpenTime": null,
+  "dismissalTime": null,
+  "schedules": {
+    "ANCHOR": {
+      "title": "Anchor Day",
+      "note": null,
+      "periods": [
+        {
+          "id": "anchor-period-1",
+          "name": "Period 1",
+          "startTime": "9:20 AM",
+          "endTime": "10:00 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-2",
+          "name": "Period 2",
+          "startTime": "10:10 AM",
+          "endTime": "10:50 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-3",
+          "name": "Period 3",
+          "startTime": "11:00 AM",
+          "endTime": "11:40 AM",
+          "note": null
+        },
+        {
+          "id": "anchor-lunch-jlc",
+          "name": "Lunch / JLC",
+          "startTime": "11:40 AM",
+          "endTime": "12:50 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-4",
+          "name": "Period 4",
+          "startTime": "12:50 PM",
+          "endTime": "1:30 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-5",
+          "name": "Period 5",
+          "startTime": "1:40 PM",
+          "endTime": "2:20 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-6",
+          "name": "Period 6",
+          "startTime": "2:30 PM",
+          "endTime": "3:10 PM",
+          "note": null
+        },
+        {
+          "id": "anchor-period-7",
+          "name": "Period 7",
+          "startTime": "3:20 PM",
+          "endTime": "4:00 PM",
+          "note": null
+        }
+      ]
+    },
+    "BLUE": {
+      "title": "Blue Day",
+      "note": null,
+      "periods": [
+        {
+          "id": "blue-period-1",
+          "name": "Period 1",
+          "startTime": "8:40 AM",
+          "endTime": "10:15 AM",
+          "note": null
+        },
+        {
+          "id": "blue-period-2",
+          "name": "Period 2",
+          "startTime": "10:25 AM",
+          "endTime": "12:00 PM",
+          "note": null
+        },
+        {
+          "id": "blue-lunch",
+          "name": "Lunch",
+          "startTime": "12:00 PM",
+          "endTime": "12:40 PM",
+          "note": null
+        },
+        {
+          "id": "blue-period-3",
+          "name": "Period 3",
+          "startTime": "12:40 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        },
+        {
+          "id": "blue-period-4",
+          "name": "Period 4",
+          "startTime": "2:25 PM",
+          "endTime": "4:00 PM",
+          "note": null
+        }
+      ]
+    },
+    "RED": {
+      "title": "Red Day",
+      "note": null,
+      "periods": [
+        {
+          "id": "red-period-5",
+          "name": "Period 5",
+          "startTime": "8:40 AM",
+          "endTime": "10:15 AM",
+          "note": null
+        },
+        {
+          "id": "red-period-6",
+          "name": "Period 6",
+          "startTime": "10:25 AM",
+          "endTime": "12:00 PM",
+          "note": null
+        },
+        {
+          "id": "red-lunch",
+          "name": "Lunch",
+          "startTime": "12:00 PM",
+          "endTime": "12:40 PM",
+          "note": null
+        },
+        {
+          "id": "red-period-7",
+          "name": "Period 7",
+          "startTime": "12:40 PM",
+          "endTime": "2:15 PM",
+          "note": null
+        },
+        {
+          "id": "red-period-8a",
+          "name": "Period 8A",
+          "startTime": "2:25 PM",
+          "endTime": "3:05 PM",
+          "note": null
+        },
+        {
+          "id": "red-period-8b",
+          "name": "Period 8B",
+          "startTime": "3:20 PM",
+          "endTime": "4:00 PM",
+          "note": null
+        }
+      ]
+    }
+  }
+}
